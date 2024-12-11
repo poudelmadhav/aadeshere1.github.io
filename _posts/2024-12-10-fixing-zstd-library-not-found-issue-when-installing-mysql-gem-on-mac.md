@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fixing zstd library not found issue when installing mysql gem
+title: Fixing zstd library not found issue when installing mysql gem on mac
 date: 2024-12-10
 ---
 
